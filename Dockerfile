@@ -1,4 +1,4 @@
-FROM ryanwclark/debian-slim:bullseye-slim
+FROM ryanwclark/debian-slim:bullseye
 
 # set version label
 ARG BUILD_DATE

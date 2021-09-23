@@ -5,5 +5,5 @@
     rm -rf /config/sonarr.pid
 
 # permissions
-# chown -R abc:abc \
-#     /app/sonarr/bin
+chown -R abc:abc \
+    /app/sonarr/bin
